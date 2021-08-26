@@ -1,0 +1,7 @@
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\bin\Debug\01_VariableTypesFirstDemo.exe.config
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\bin\Debug\01_VariableTypesFirstDemo.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\bin\Debug\01_VariableTypesFirstDemo.pdb
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\obj\Debug\01_VariableTypesFirstDemo.csproj.AssemblyReference.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\obj\Debug\01_VariableTypesFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\obj\Debug\01_VariableTypesFirstDemo.exe
+C:\Users\17654\Desktop\EFA-LA\SD102\CSharpFundamentalsSD102\CSharpFundamentalsSD102\01_VariableTypesFirstDemo\obj\Debug\01_VariableTypesFirstDemo.pdb
